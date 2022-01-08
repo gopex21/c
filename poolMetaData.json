@@ -3,5 +3,5 @@
 "description": "Your friendly canadian pool, soory eh!",
 "ticker": "MPOL",
 "homepage": "https://twitter.com/maple_pool",
-"extended": "https://github.com/gopex21/c/blob/main/mpol-extended.json"
+"extended": "https://raw.githubusercontent.com/gopex21/c/main/mpol-extended.json"
 }
